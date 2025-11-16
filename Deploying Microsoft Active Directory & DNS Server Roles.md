@@ -41,15 +41,21 @@ Below are the full deployment steps, including where to place supporting screens
 
 ## 1.1 Windows Server Installed
 Windows Server installation completed successfully.  
-_No screenshot required._
+
+<img width="1198" height="835" alt="image" src="https://github.com/user-attachments/assets/26c7141d-c1ba-49e6-9f79-aab910fab6bb" />
+
 
 ## 1.2 Configure a Static IP Address
 A static IP address ensures the server remains reachable with a permanent network location.
 
-📁 Place screenshots into:  
-`screenshots/1_server_setup/`
-- static ip address.png  
-- hostname, ip static not dhcp.png  
+<img width="1192" height="831" alt="image" src="https://github.com/user-attachments/assets/969fbf84-b8ce-4b10-9a39-3ab54f5cb13d" />
+
+---
+
+<img width="1122" height="841" alt="image" src="https://github.com/user-attachments/assets/1d68d4b1-c72e-406c-9c98-ef957817a5d8" />
+
+
+---  
 
 ## 1.3 Hostname and Server Manager
 📁 Place into:  
